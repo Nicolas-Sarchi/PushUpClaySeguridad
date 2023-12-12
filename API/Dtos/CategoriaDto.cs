@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace API.Profiles
+namespace API.Dtos
 {
-    public class NewClass
+    public class CategoriaDto : BaseDto
     {
         
     }
